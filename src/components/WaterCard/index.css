@@ -1,0 +1,21 @@
+.watterBox {
+    width: 150px;
+    border: 2px solid grey;
+    padding: 20px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 80px auto;
+}
+.temp {
+  color: blueviolet;
+  padding-top: 15px;
+}
+.sky {
+    color: blue;
+    padding-top: 15px;
+}
+.title {
+    color: orange;
+}
